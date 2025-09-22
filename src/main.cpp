@@ -1,4 +1,4 @@
-#include "../include/squares.hpp"
+#include "squares.hpp"
 #include <cassert>
 #include <iostream>
 #include <algorithm>

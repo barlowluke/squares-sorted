@@ -1,4 +1,4 @@
-#include "../include/squares.hpp"
+#include "squares.hpp"
 #include <algorithm> //you may use std::copy(a1, a1+n, a1_copy); to copy array elements from a1 a1_copy (optional)
 #include <cstdlib>  // if you want to compute std::abs (optional)
 
