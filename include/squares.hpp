@@ -1,5 +1,3 @@
-//squares.hpp
-
 #include <cstdlib>  // if you want to compute std::abs
 
 // smallest on front

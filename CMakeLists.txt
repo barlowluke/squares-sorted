@@ -11,4 +11,4 @@ project(squares-sorted)
 include_directories(${CMAKE_SOURCE_DIR}/include)
 
 # Add the main executable
-add_executable(src/squares.cpp src/main.cpp)
+add_executable(squares src/squares.cpp src/main.cpp)
